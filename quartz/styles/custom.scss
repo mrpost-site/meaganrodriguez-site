@@ -1,3 +1,61 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+:root:root[saved-theme="dark"],
+:root:root[saved-theme="light"] {
+  --accent-h: 0 !important;
+  --accent-s: 9% !important;
+  --accent-l: 61% !important;
+  --window-border-radius: 0px !important;
+  --button-border-radius: 0px !important;
+  --input-radius: 0px !important;
+--font-text-override: "Space Mono" !important;
+  --font-interface-override: "Space Mono" !important;
+  --font-monospace-override: "Space Mono" !important;
+}
+
+.sidebar.right {
+  display: none !important;
+}
+
+.page > #quartz-body {
+  grid-template-columns: 320px auto !important;
+  grid-template-areas:
+    "grid-sidebar-left grid-header"
+    "grid-sidebar-left grid-center"
+    "grid-sidebar-left grid-footer" !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400 !important;
+}
+
+.explorer .title-button,
+.explorer .desktop-explorer,
+button.title-button.explorer-toggle {
+  display: none !important;
+  height: 0 !important;
+  min-height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.explorer-content {
+  display: block !important;
+  max-height: none !important;
+}
+
+.explorer.nav-files-container {
+  background: transparent !important;
+  padding-top: 0 !important;
+}
+
+.page-title,
+.page-title a {
+  font-weight: 400 !important;
+  font-size: 1.1rem !important;
+}
