@@ -14,6 +14,10 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
         dangerouslySetInnerHTML={{
           __html: `
           if (typeof fetchData !== "undefined") {
+if (window.location.pathname.replace(/\/$/, "").endsWith("/post-resume-2026")) {
+            window.location.replace("/post-resume-2026.pdf");
+          }
+          if (typeof fetchData !== "undefined") {
             fetchData.then(function(index) {
               var basePath = document.body.dataset.basepath || "";
               if (basePath.length > 1 && basePath.endsWith("/")) {
