@@ -44,6 +44,17 @@ button.title-button.explorer-toggle {
   box-shadow: none !important;
 }
 
+@media (max-width: 800px) {
+  .explorer-toggle.mobile-explorer {
+    display: none !important;
+  }
+
+  .explorer-content {
+    display: block !important;
+    max-height: none !important;
+  }
+}
+
 .explorer-content {
   display: block !important;
   max-height: none !important;
