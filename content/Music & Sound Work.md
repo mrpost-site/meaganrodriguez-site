@@ -18,11 +18,21 @@
 <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
   <div style="flex: 1; min-width: 300px;">
     <iframe src="https://player.vimeo.com/video/1188176019" width="100%" style="aspect-ratio: 21/9;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-    <p><strong>Guardians of the Sky</strong> <em>in post production</em> (2026)<br>Dir. Justin Jarrett<br>Sound Design & Sound Mix (5.1 Theatrical)</p>
+    <p><strong>Guardians of the Sky</strong> <em>in post production</em> (2026)<br>Dir. Justin Jarrett<br>Music Editing, Sound Design & Sound Mix (5.1 Theatrical)</p>
+  </div>
+</div>
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <div style="flex: 1; min-width: 300px;">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/MvSt7wPfnGQ?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>First Commonwealth Federal Credit Union | Working Class</strong> (2026)<br>Dir. Malcolm Critcher<br>Sound Design & Sound Mix</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/SFifzvUm0T8?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>The Hands That Shape Tomorrow</strong> (2026)<br>Dir. Kyra Kox<br>Music Editing, Sound Design & Mix<br><em>Winner, 2026 Mid-Atlantic Emmy Award, Outstanding Education Long-Form Content</em></p>
   </div>
 </div>
 
-##### Short-form Narrative
+##### Short-form Branded Narrative
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
   <div style="flex: 1; min-width: 300px;">
@@ -30,17 +40,23 @@
     <p><strong>First Commonwealth Federal Credit Union</strong> (2026)<br>Sound Design & Sound Mix</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube-nocookie.com/embed/6QisBhjTFBU?si=78wlTa5vbdN9OUPm&controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p><strong>Alabama A&M</strong> (2025)<br>Music Editing, Sound Design & Sound Mix</p>
-  </div>
+  <iframe width="100%" style="aspect-ratio: 16/9;"
+  src="https://www.youtube-nocookie.com/embed/zphm7uYbhMg?controls=0&rel=0" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+  <p><strong>Alabama A&M</strong> (2025)<br>Music Editing, Sound
+  Design & Sound Mix</p>
+</div>
 </div>
 
-##### Short-form Documentary
+##### Short-form Branded Documentary
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
   <div style="flex: 1; min-width: 300px;">
-    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube-nocookie.com/embed/MvSt7wPfnGQ?si=9v4523bg9W0ehF5H&controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p><strong>First Commonwealth Federal Credit Union</strong> (2026)<br>Sound Design & Sound Mix</p>
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube-nocookie.com/embed/MIjG6fXLU-o?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>PA Gets It Done</strong> (2026)<br>Sound Design & Sound Mix</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/GT60FkLahuo?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -63,12 +79,23 @@
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
   <div style="flex: 1; min-width: 300px;">
-    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/yeJeRFYv9z0?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/iXhJAIjBt_E?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p><strong>Philadelphia Horticultural Society</strong> (2026)<br>Sound Design & Sound Mix for Broadcast + Web</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/Uo_OFRlG1H8?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <p><strong>Netflix House</strong> (2025)<br>Sound Mix for Broadcast + Web</p>
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/xQM50iP1neI?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>Visit Philly</strong> (2026)<br>Music Editing, Sound Design & Sound Mix for Broadcast + Web</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <div style="flex: 1; min-width: 300px;">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/beVnMEDqtOY?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>Barlow Chevrolet</strong> (2025)<br>Music Editing, Sound Design & Sound Mix</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/sxT0O0e0wmA?controls=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><strong>Netflix House</strong> (2025)<br>Sound Mix</p>
   </div>
 </div>
 
